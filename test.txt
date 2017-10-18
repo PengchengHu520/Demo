@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-null
-=======
-helloworld
-
->>>>>>> parent of bcad751... adc
